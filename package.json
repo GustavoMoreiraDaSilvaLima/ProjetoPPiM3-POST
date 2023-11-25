@@ -1,0 +1,31 @@
+{
+  "name": "projetoppim3-post",
+  "version": "1.0.0",
+  "description": "Atividade 3, metodo POST, validacao para o servidor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMoreiraDaSilvaLima/ProjetoPPiM3-POST.git"
+  },
+  "keywords": [
+    "Formulario",
+    "forms",
+    "usuario",
+    "registro",
+    "POST"
+  ],
+  "author": "Gustavo Moreira Da Silva Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMoreiraDaSilvaLima/ProjetoPPiM3-POST/issues"
+  },
+  "homepage": "https://github.com/GustavoMoreiraDaSilvaLima/ProjetoPPiM3-POST#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
